@@ -1,2 +1,2 @@
-# babatundeMD
-Oladapo M. Babatunde, MD, FAAS
+# BabatundeMD
+Oladapo M. Babatunde, MD, FAAOS
