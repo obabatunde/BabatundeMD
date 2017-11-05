@@ -2158,6 +2158,9 @@ strong.school {
 				#copyright li {
 					display: block;
 				}
+		a.brand-logo {
+    font-size: 16px;
+		}
 
 	}
 
